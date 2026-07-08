@@ -1,4 +1,4 @@
-# 📊 Excel Sales Dashboard
+# 📊 Excel Sales and Project Management Dashboard
 
 ## 📌 Project Overview
 
